@@ -8,7 +8,7 @@ package designprinciple.solid;
 
 // Bad example
 class User{
-    void saveUser{
+    void saveUser(){
         System.out.println("Code to save user to a database.");
     }
 

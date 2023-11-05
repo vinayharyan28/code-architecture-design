@@ -27,6 +27,8 @@ package designprinciple;
 
  */
 
+//TODO: POJO
+
 public class Main{
     public static void main(String[] args) {
 
