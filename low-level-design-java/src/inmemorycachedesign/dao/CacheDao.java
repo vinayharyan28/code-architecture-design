@@ -82,8 +82,8 @@ public class CacheDao {
     }
 
     public void display(){
-        for (Object object1: cache.getDataStore()){
-            System.out.println(object1);
+        for (Object dataStore: cache.getDataStore()){
+            System.out.println(dataStore);
         }
     }
 
